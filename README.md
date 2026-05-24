@@ -14,7 +14,10 @@
 ## 動作環境
 
 - Unexplored 2: The Wayfarer's Legacy (Steam / Unity 2020.3.26f1 IL2CPP)
-- [BepInEx 6.0.0-be.755 以降](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-be.755)（IL2CPP 版）
+- BepInEx 6.0.0-be.755（IL2CPP 版）  
+  ダウンロードページ: https://builds.bepinex.dev/projects/bepinex_be  
+  直接ダウンロード: https://builds.bepinex.dev/projects/bepinex_be/755/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.755+3fab71a.zip  
+  ※ be.* ビルドは GitHub Releases には存在しません。上記 builds.bepinex.dev から入手してください。
 - [XUnity.AutoTranslator 5.6.1](https://github.com/bbepis/XUnity.AutoTranslator/releases/tag/v5.6.1)
 
 ## インストール
